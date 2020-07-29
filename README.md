@@ -12,4 +12,6 @@
 
 
 - 🌱 I’m currently learning Python and Frontend Web Development
+## Connect with Me
+[LinkedIn](https://www.linkedin.com/in/kaustubh---singh)
 
