@@ -1,5 +1,5 @@
 ### Hi there 👋 Welcome! to my Github Profile
-#### I am Kaustubh Singh 😉
+#### I am Kaustubh Singh ✨
 ##### First Year, Computer Science Student 💻
 
 #### Interests -
@@ -12,6 +12,4 @@
 
 
 - 🌱 I’m currently learning Python and Frontend Web Development
-## Connect with Me
-[LinkedIn](https://www.linkedin.com/in/kaustubh---singh)
-
+## Connect with Me On [LinkedIn](https://www.linkedin.com/in/kaustubh---singh)
