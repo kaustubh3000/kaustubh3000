@@ -6,11 +6,11 @@
 
 #### I write Quality C++ Code with object oriented design. I am also familiar with other Programming Languages like Python, C and JavaScript.
 
-##### University- Dr. APJ Abdul Kalam Technical University, Lucknow
-##### College- Babu Banarsi Das Institute of Technology, Lucknow, UP, India
+#### University- Dr. APJ Abdul Kalam Technical University, Lucknow
+#### College- Babu Banarsi Das Institute of Technology, Lucknow, UP, India
 
 
-#### Technical Skills -
+### Technical Skills -
 - **C++**
 - **Data Structures and Algorithms**
 - **OOPs in C++**
@@ -21,7 +21,7 @@
 - **React, React Native, NodeJS**
 - **JavaScript**
 
-#### Interests -
+### Interests -
 
 - **Machine Learning & AI**
 - **Web Development**
