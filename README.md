@@ -2,28 +2,22 @@
 ### I am Kaustubh Singh ✨
 #### Computer Science Student💻 CSE 2023
 
-#### I primarily focus on Software Devlopment and Web Devlopment. I am interested in Maching Learning and Cyber Security.
-
-#### I write Quality C++ Code with object oriented design. I am also familiar with other Programming Languages like Python, C and JavaScript.
-
 #### University- Dr. APJ Abdul Kalam Technical University, Lucknow, UP, INDIA
 #### College- Babu Banarsi Das Institute of Technology and Management (formerly known as Babu Banarsi Das National Institute of Technology and Management), Lucknow, UP, INDIA
 
 
 ### Technical Skills -
-- **C++**
+- **Python**
+- **Java**
 - **Data Structures and Algorithms**
-- **OOPs in C++**
-- **Operating System**
 - **Databases - SQL, MongoDB**
-- **Python Programming**
-- **HTML, CSS, Bootstrap, Flask**
-- **React, React Native, NodeJS**
+- **HTML, CSS, Bootstrap**
+- **Angular**
 - **JavaScript**
+- **NodeJS**
 
 ### Interests -
 
-- **Machine Learning & AI**
 - **Web Development**
 - **Cyber Security**
 
